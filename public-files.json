@@ -1,0 +1,17 @@
+{
+  "release": "2026-09-source-derived",
+  "files": [
+    ".gitattributes",
+    ".github/workflows/test.yml",
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "demo.py",
+    "docs/engineering-cases.md",
+    "docs/source-provenance.md",
+    "literary/schema/knowledge.sql",
+    "literary/tools/library.py",
+    "public-files.json",
+    "tests/test_public_compiler.py"
+  ]
+}

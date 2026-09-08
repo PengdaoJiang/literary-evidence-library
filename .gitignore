@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+demo-output/
+literary/generated/
+*.sqlite
+*.sqlite3
+.env*
