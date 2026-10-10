@@ -6,3 +6,4 @@ literary/generated/
 *.sqlite
 *.sqlite3
 .env*
+outputs/
