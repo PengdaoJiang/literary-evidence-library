@@ -16,3 +16,4 @@ jobs:
       - run: python -B -m unittest discover -s tests -v
       - run: python -B -m unittest discover -s experiments/book_registry -p test_registry.py -v
       - run: python -B demo.py --out demo-output
+      - run: python -B alignment_demo.py
